@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I am Veteran transitioning into Tech. I am currently enrolled in Level Up in Tech and learning DevOps
+I am Veteran transitioning into Tech. I graduated from Level Up in Tech; a Comprehensive 24-week cloud career program leveraging real-world projects and industry mentorship.
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
